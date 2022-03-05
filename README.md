@@ -28,28 +28,17 @@
 
 </body>
 
+<!-- css -->
+  
 <head>
-  <title>Mi primera página con estilo</title>
-  <style type="text/css">
-  body {
-    font-family: Georgia, "Times New Roman",
-          Times, serif;
-    color: white;
-    background-color: #000000 }
-  h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
-  </style>
-</head>
-  <head>
   <title>Mi primera página con estilo</title>
   <style type="text/css">
   body {
     padding-left: 11em;
     font-family: Georgia, "Times New Roman",
           Times, serif;
-    color: purple;
-    background-color: #d8da3d }
+    color: white;
+    background-color: #000000 }
   ul.navbar {
     position: absolute;
     top: 2em;
@@ -60,7 +49,5 @@
           SunSans-Regular, sans-serif }
   </style>
 </head>
-
-<body>
   
 </html>
