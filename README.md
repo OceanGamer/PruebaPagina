@@ -7,10 +7,10 @@
 
 <!-- Menú de navegación del sitio -->
 <ul class="navbar">
-  <li><a href="incio.html">Inicio</a>
-  <li><a href="links.html">Links De Descarga</a>
-  <li><a href="https://www.youtube.com/channel/UCZlWanq13FB4Xl3wnk_Dzdw">Youtube</a>
-  <li><a href="cubo.html">Cubos.jpg</a>
+  <li><a href="incio.html">inicio</a>
+  <li><a href="links.html">links a tutoriales</a>
+  <li><a href="https://www.youtube.com/channel/UCZlWanq13FB4Xl3wnk_Dzdw">mi canal de youtube</a>
+  <li><a href="https://cesariote.github.io/cubos/">Cubos.jpg</a>
 
 </ul>
 
