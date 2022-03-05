@@ -9,7 +9,7 @@
 <ul class="navbar">
   <li><a href="incio.html">Inicio</a>
   <li><a href="links.html">Links De Descarga</a>
-  <A HREF="www.youtube.com"> Mi canal de youtube </A>
+  <li><a href=”https://www.yoseomarketing.com/”>Empresa de Posicionamiento Web</a> </A>
   <li><a href="cubo.html">Cubos.jpg</a>
 
 </ul>
