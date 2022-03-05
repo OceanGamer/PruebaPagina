@@ -13,15 +13,21 @@ ul.navbar {
   left: 1em;
   width: 20em }
 h1 {
-list-style-type: none;
   padding: 0;
   margin: 0;
   position: fixed;
   top: 2em;
-  right: 1em;
+  right: -9em;
   width: 20em }
-  font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif }
+p {
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  top: 2em;
+  right: -9em;
+  width: 20em
+
+}
 ul.navbar li {
   background: white;
   margin: 0.5em 0;
