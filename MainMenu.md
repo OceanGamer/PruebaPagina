@@ -9,8 +9,9 @@
 <ul class="navbar">
   <li><a href="incio.html">Inicio</a>
   <li><a href="links.html">Links De Descarga</a>
-  <li><a href="youtube.html">Mi Canal de Youtube</a>
+  <li><a href="www.youtube.com">Mi Canal de Youtube</a>
   <li><a href="cubo.html">Cubos.jpg</a>
+
 </ul>
 
 <!-- Contenido principal -->
@@ -39,11 +40,6 @@
           Times, serif;
     color: white;
     background-color: #000000 }
-  ul.navbar {
-    position: absolute;
-    top: 2em;
-    left: 1em;
-    width: 9em }
   h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
