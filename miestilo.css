@@ -15,16 +15,16 @@ ul.navbar {
 h1 {
   padding: 0;
   margin: 0;
-  position: fixed;
+  position: absolute;
   top: 2em;
-  right: -9em;
+  right: 0em;
   width: 20em }
 p {
   padding: 0;
   margin: 0;
-  position: fixed;
+  position: absolute;
   top: 2em;
-  right: -9em;
+  right: 20em;
   width: 20em
 
 }
