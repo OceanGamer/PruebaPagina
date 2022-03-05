@@ -9,6 +9,7 @@
 <ul class="navbar">
   <li><a href="incio.html">Inicio</a>
   <li><a href="links.html">Links De Descarga</a>
+  <li><a href="links.html">Links De Descarga</a>
   <li><a href=”https://www.yoseomarketing.com/”>Empresa de Posicionamiento Web</a>
   <li><a href="cubo.html">Cubos.jpg</a>
 
