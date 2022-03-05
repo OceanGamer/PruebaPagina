@@ -28,4 +28,14 @@
   El que lo use le tumbo el canal!.</address>
 
 </body>
+  
+  <head>
+  <title>Mi primera página con estilo</title>
+  <style type="text/css">
+  body {
+    color: purple;
+    background-color: #d8da3d }
+  </style>
+</head>
+  
 </html>
