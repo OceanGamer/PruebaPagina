@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "Pagina4K">
 <html>
 <head>
   <title>OceanBlog</title>
@@ -42,5 +41,26 @@
           SunSans-Regular, sans-serif }
   </style>
 </head>
+  <head>
+  <title>Mi primera página con estilo</title>
+  <style type="text/css">
+  body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+  ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  </style>
+</head>
+
+<body>
   
 </html>
