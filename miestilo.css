@@ -17,15 +17,15 @@ h1 {
   margin: 0;
   position: absolute;
   top: 2em;
-  right: 0em;
-  width: 20em }
+  right: 20em;
+  width: 10em }
 p {
   padding: 0;
   margin: 0;
   position: absolute;
-  top: 2em;
+  top: 10em;
   right: 20em;
-  width: 20em
+  width: 40em
 
 }
 ul.navbar li {
