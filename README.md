@@ -7,26 +7,12 @@
 
 <!-- Menú de navegación del sitio -->
 <ul class="navbar">
-  <li><a href="incio.html">inicio</a>
-  <li><a href="links.html">links a tutoriales</a>
-  <li><a href="https://www.youtube.com/channel/UCZlWanq13FB4Xl3wnk_Dzdw">mi canal de youtube</a>
-  <li><a href="https://cesariote.github.io/cubos/">Cubos.jpg</a>
+  <li><a href="inicio.html">No soy un robot, lo prometo</a>
 
 </ul>
 
 <!-- Contenido principal -->
-<h1>OceanGamer Blog</h1>
-
-<p>¡Bienvenido a este blog de dudosa procedencia!
-
-<p>Tranquilo aun no minamos criptos con tu pc (aun)
-
-<p>Visita mi canal de youtube!
-
-<!-- Firma y fecha de la página, ¡sólo por cortesía! -->
-<address>CesarG Copyright<br>
-  El que lo use le tumbo el canal!.</address>
-
+<h1Verifica que no eres un ROBOT</h1>
 </body>
 
 <!-- css -->
