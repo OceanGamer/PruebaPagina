@@ -2,8 +2,8 @@ body {
   padding-left: 11em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
-  color: purple;
-  background-color: #d8da3d }
+  color: white;
+  background-color: #000000 }
 ul.navbar {
   list-style-type: none;
   padding: 0;
@@ -11,15 +11,18 @@ ul.navbar {
   position: absolute;
   top: 2em;
   left: 1em;
-  width: 9em }
+  width: 20em }
 h1 {
+  position: center;
+  top: 2em;
+  margin: 1;
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
   background: white;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-right: 1em solid black }
+  border-right: 1em solid blue }
 ul.navbar a {
   text-decoration: none }
 a:link {
